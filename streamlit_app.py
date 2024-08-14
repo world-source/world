@@ -8,4 +8,4 @@ label = "Hello"
 
 import streamlit as st
 
-st.text_input(r"$\textsf{\Large Enter text here}$")
+st.write(r"$\textsf{\Large Enter text here}$")
