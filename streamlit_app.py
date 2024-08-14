@@ -5,12 +5,7 @@ st.write(
     "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
 )
 label = "Hello"
-st.components.v1.html(
-    f"""
-    <script>
-        var elems = window.parent.document.querySelectorAll('div[class*="stTextInput"] p');
-        var elem = Array.from(elems).find(x => x.innerText == 'label');
-        elem.style.fontSize = '20px'; // the fontsize you want to set it to
-    </script>
-    """
-)
+
+import streamlit as st
+
+st.text_input(r"$\textsf{\Large Enter text here}$")
