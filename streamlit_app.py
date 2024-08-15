@@ -29,8 +29,8 @@ st.markdown(
 )
 
 st.set_page_config(
-    page_title="Hello",
-    page_icon="👋",
+    page_title="Hello2",
+    page_icon="👋a",
 )
 
 st.write("# Welcome to Streamlit! 👋")
