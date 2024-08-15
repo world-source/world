@@ -3,7 +3,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title="Light Project",
-    page_icon="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Fbig.php%3Fi%3D740546&psig=AOvVaw3kII43od6DnM5UmikOFpnG&ust=1723771648720000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjCw_jr9YcDFQAAAAAdAAAAABAe",
+    page_icon="https://static.wikia.nocookie.net/deathnote/images/6/6c/L_Symbol.jpeg/revision/latest?cb=20081006192949",
 )
 
 st.write("# Welcome to Streamlit! 👋")
