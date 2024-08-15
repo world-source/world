@@ -2,8 +2,8 @@ import streamlit as st
 
 
 st.set_page_config(
-    page_title="Hello",
-    page_icon="👋",
+    page_title="Light Project",
+    page_icon="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Fbig.php%3Fi%3D740546&psig=AOvVaw3kII43od6DnM5UmikOFpnG&ust=1723771648720000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjCw_jr9YcDFQAAAAAdAAAAABAe",
 )
 
 st.write("# Welcome to Streamlit! 👋")
